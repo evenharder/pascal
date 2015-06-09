@@ -24,6 +24,13 @@ public class HelpPanel extends JPanel{
 	{
 		str_update.append("Update Log\n"
 				+ "\n");
+		/** Version 1.0.0.2.*/
+		str_update.append(""
+				+ "Version 1.0.0.2.\n"
+				+ "\n"
+				+ "Renamed the total project name to \"Pascal's Triangle\", "
+				+ "which was \"Pascal's Triangle Git\" before.\n"
+				+ "\n");
 		/** Version 1.0.0.1.*/
 		str_update.append(""
 				+ "Version 1.0.0.1.\n"
@@ -264,7 +271,7 @@ public class HelpPanel extends JPanel{
 				+ "\n"
 				+ "Original Developer : SangHeon Lee\n"
 				+ "\n"
-				+ "Program Version : 1.0.0.1\n"
+				+ "Program Version : 1.0.0.2\n"
 				+ "\n"
 				+ "GitHub Link : https://github.com/evenharder/pascal\n"
 				+ "\n"
