@@ -190,16 +190,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="22" language="java" name="HelpPanel" project="Pascal&apos;s Triangle" 
-    file="/Pascal&apos;s Triangle/src/HelpPanel.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="2106" y="1004"/>    
-    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
-      sort-features="false" accessors="true" visibility="true">      
-      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
-      <operations public="true" package="true" protected="true" private="true" static="true"/>    
-    </display>  
-  </class>  
-  <class id="23" language="java" name="MyFrame" project="Pascal&apos;s Triangle" 
+  <class id="22" language="java" name="MyFrame" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/MyFrame.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="117" width="131" x="623" y="20"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -208,7 +199,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="24" language="java" name="CalcTrack" project="Pascal&apos;s Triangle" 
+  <class id="23" language="java" name="CalcTrack" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/CalcTrack.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="243" width="261" x="1908" y="20"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -217,7 +208,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="25" language="java" name="ColorOptionTotalPane" project="Pascal&apos;s Triangle" 
+  <class id="24" language="java" name="ColorOptionTotalPane" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/ColorOptionTotalPane.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="1294" y="986"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -226,7 +217,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="26" language="java" name="InitProcessPanel.IfClearingTableMessage" project="Pascal&apos;s Triangle" 
+  <class id="25" language="java" name="InitProcessPanel.IfClearingTableMessage" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/InitProcessPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="186" x="697" y="1283"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -235,7 +226,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="27" language="java" name="PascalData" project="Pascal&apos;s Triangle" 
+  <class id="26" language="java" name="PascalData" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/PascalData.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="2466" y="114"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -244,7 +235,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="28" language="java" name="JTextFieldLimit" project="Pascal&apos;s Triangle" 
+  <class id="27" language="java" name="JTextFieldLimit" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/JTextFieldLimit.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="1264" y="1591"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -253,7 +244,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="29" language="java" name="ColorOptionPanel" project="Pascal&apos;s Triangle" 
+  <class id="28" language="java" name="ColorOptionPanel" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/ColorOptionPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="423" width="194" x="923" y="1283"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -262,7 +253,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="30" language="java" name="CalcTrack.IfUnderControlMessage" project="Pascal&apos;s Triangle" 
+  <class id="29" language="java" name="CalcTrack.IfUnderControlMessage" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/CalcTrack.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="185" x="2146" y="303"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -271,7 +262,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="31" language="java" name="OptionPanel.ThreadTimer" project="Pascal&apos;s Triangle" 
+  <class id="30" language="java" name="OptionPanel.ThreadTimer" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/OptionPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="2260" y="977"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -280,7 +271,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="32" language="java" name="ColorSliderPane" project="Pascal&apos;s Triangle" 
+  <class id="31" language="java" name="ColorSliderPane" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/ColorSliderPane.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="171" width="188" x="809" y="1746"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -289,7 +280,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="33" language="java" name="ColorOptionPanel.HighlightColorMessage" project="Pascal&apos;s Triangle" 
+  <class id="32" language="java" name="ColorOptionPanel.HighlightColorMessage" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/ColorOptionPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="117" width="181" x="1037" y="1746"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -298,7 +289,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="34" language="java" name="PascalPanel.WriteDataMessage" project="Pascal&apos;s Triangle" 
+  <class id="33" language="java" name="PascalPanel.WriteDataMessage" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/PascalPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="117" width="150" x="794" y="928"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -307,7 +298,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="35" language="java" name="Static" project="Pascal&apos;s Triangle" 
+  <class id="34" language="java" name="Static" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/Static.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="2825" y="1000"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -316,7 +307,7 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="36" language="java" name="SettingsPanel" project="Pascal&apos;s Triangle" 
+  <class id="35" language="java" name="SettingsPanel" project="Pascal&apos;s Triangle" 
     file="/Pascal&apos;s Triangle/src/SettingsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="1508" y="1076"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -325,176 +316,225 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <nesting id="37">    
-    <end type="SOURCE" refId="36"/>    
-    <end type="TARGET" refId="7"/>  
-  </nesting>  
-  <association id="38">    
+  <class id="36" language="java" name="HelpPanel" project="Pascal&apos;s Triangle" 
+    file="/Pascal&apos;s Triangle/src/HelpPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2103" y="1060"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="37">    
     <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="39" name="cotp"/>      
-      <multiplicity id="40" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="25" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="41">    
-    <end type="SOURCE" refId="24"/>    
-    <end type="TARGET" refId="30"/>  
-  </nesting>  
-  <nesting id="42">    
-    <end type="SOURCE" refId="16"/>    
-    <end type="TARGET" refId="31"/>  
-  </nesting>  
-  <association id="43">    
-    <end type="SOURCE" refId="23" navigable="false">      
-      <attribute id="44" name="pascalPanel"/>      
-      <multiplicity id="45" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="46">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="47" name="mp"/>      
-      <multiplicity id="48" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="12" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="49">    
-    <end type="SOURCE" refId="36"/>    
-    <end type="TARGET" refId="13"/>  
-  </nesting>  
-  <nesting id="50">    
-    <end type="SOURCE" refId="23"/>    
-    <end type="TARGET" refId="4"/>  
-  </nesting>  
-  <nesting id="51">    
-    <end type="SOURCE" refId="8"/>    
-    <end type="TARGET" refId="18"/>  
-  </nesting>  
-  <nesting id="52">    
-    <end type="SOURCE" refId="8"/>    
-    <end type="TARGET" refId="5"/>  
-  </nesting>  
-  <association id="53">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="54" name="sp"/>      
-      <multiplicity id="55" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="36" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="56">    
-    <end type="SOURCE" refId="29" navigable="false">      
-      <attribute id="57" name="csp"/>      
-      <multiplicity id="58" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="32" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="59">    
-    <end type="SOURCE" refId="11"/>    
-    <end type="TARGET" refId="19"/>  
-  </nesting>  
-  <nesting id="60">    
-    <end type="SOURCE" refId="24"/>    
-    <end type="TARGET" refId="2"/>  
-  </nesting>  
-  <association id="61">    
-    <end type="SOURCE" refId="23" navigable="false">      
-      <attribute id="62" name="infoPanel"/>      
-      <multiplicity id="63" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="64">    
-    <end type="SOURCE" refId="29"/>    
-    <end type="TARGET" refId="33"/>  
-  </nesting>  
-  <nesting id="65">    
-    <end type="SOURCE" refId="9"/>    
-    <end type="TARGET" refId="14"/>  
-  </nesting>  
-  <nesting id="66">    
-    <end type="SOURCE" refId="16"/>    
-    <end type="TARGET" refId="17"/>  
-  </nesting>  
-  <nesting id="67">    
-    <end type="SOURCE" refId="9"/>    
-    <end type="TARGET" refId="34"/>  
-  </nesting>  
-  <association id="68">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="69" name="ipp"/>      
-      <multiplicity id="70" minimum="0" maximum="1"/>    
+      <attribute id="38" name="ipp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="11" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <nesting id="71">    
-    <end type="SOURCE" refId="24"/>    
-    <end type="TARGET" refId="20"/>  
+  <nesting id="40">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
   </nesting>  
-  <association id="72">    
+  <nesting id="41">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="42">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="30"/>  
+  </nesting>  
+  <nesting id="43">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="21"/>  
+  </nesting>  
+  <association id="44">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="45" name="vop">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="46" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="28" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="48" name="pascalPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
     <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="73" name="hp"/>      
-      <multiplicity id="74" minimum="0" maximum="1"/>    
+      <attribute id="51" name="cotp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="22" navigable="true"/>    
+    <end type="TARGET" refId="24" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="75">    
-    <end type="SOURCE" refId="23" navigable="false">      
-      <attribute id="76" name="optionPanel"/>      
-      <multiplicity id="77" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="78">    
-    <end type="SOURCE" refId="25"/>    
+  <nesting id="53">    
+    <end type="SOURCE" refId="24"/>    
     <end type="TARGET" refId="3"/>  
   </nesting>  
-  <association id="79">    
-    <end type="SOURCE" refId="25" navigable="false">      
-      <attribute id="80" name="vop"/>      
-      <multiplicity id="81" minimum="0" maximum="2147483647"/>    
+  <nesting id="54">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="25"/>  
+  </nesting>  
+  <association id="55">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="56" name="infoPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="57" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="29" navigable="true"/>    
+    <end type="TARGET" refId="8" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <nesting id="82">    
+  <nesting id="58">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="33"/>  
+  </nesting>  
+  <nesting id="59">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="14"/>  
+  </nesting>  
+  <nesting id="60">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <nesting id="61">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="62">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="63" name="csp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="64" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="65">    
     <end type="SOURCE" refId="9"/>    
     <end type="TARGET" refId="1"/>  
   </nesting>  
-  <nesting id="83">    
-    <end type="SOURCE" refId="11"/>    
-    <end type="TARGET" refId="26"/>  
+  <association id="66">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="67" name="curPointVector">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="68" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="69">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="5"/>  
   </nesting>  
-  <nesting id="84">    
+  <association id="70">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="71" name="mp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="72" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="73">    
     <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="29"/>  
+  </nesting>  
+  <nesting id="74">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <nesting id="75">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <nesting id="76">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="13"/>  
+  </nesting>  
+  <nesting id="77">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </nesting>  
+  <nesting id="78">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="2"/>  
+  </nesting>  
+  <association id="79">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="80" name="hp"/>      
+      <multiplicity id="81" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="82">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="20"/>  
+  </nesting>  
+  <nesting id="83">    
+    <end type="SOURCE" refId="22"/>    
     <end type="TARGET" refId="6"/>  
   </nesting>  
-  <nesting id="85">    
-    <end type="SOURCE" refId="36"/>    
-    <end type="TARGET" refId="10"/>  
-  </nesting>  
-  <nesting id="86">    
-    <end type="SOURCE" refId="27"/>    
-    <end type="TARGET" refId="21"/>  
-  </nesting>  
+  <association id="84">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="85" name="sp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="86" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
   <nesting id="87">    
-    <end type="SOURCE" refId="36"/>    
+    <end type="SOURCE" refId="35"/>    
     <end type="TARGET" refId="15"/>  
   </nesting>  
   <association id="88">    
-    <end type="SOURCE" refId="9" navigable="false">      
-      <attribute id="89" name="curPointVector"/>      
-      <multiplicity id="90" minimum="0" maximum="2147483647"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="89" name="optionPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="90" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="14" navigable="true"/>    
+    <end type="TARGET" refId="16" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
