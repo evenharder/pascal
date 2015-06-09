@@ -12,7 +12,7 @@ public class HelpPanel extends JPanel{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-	private String programVersion="1.0.0.3.";
+	private String programVersion="1.0.0.4.";
 	
 	private JTabbedPane jtp=new JTabbedPane();
 	StringBuffer str_help=new StringBuffer();
@@ -24,6 +24,13 @@ public class HelpPanel extends JPanel{
 	private void updatePanelInit()
 	{
 		str_update.append("Update Log\n"
+				+ "\n");
+		/** Version 1.0.0.4.*/
+		str_update.append(""
+				+ "Version 1.0.0.4.\n"
+				+ "\n"
+				+ "Just to rename the version number on GitHub. "
+				+ "Not get used to it......\n"
 				+ "\n");
 		/** Version 1.0.0.3.*/
 		str_update.append(""
